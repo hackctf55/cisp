@@ -8,7 +8,7 @@
 
 ![hackctf55](https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64)
 
-<img src="https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64.jpg" width="200" height="200" alt="个人微信二维码"/><br/>
+<img src="https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64.jpg" width="300" height="300" alt="个人微信二维码"/><br/>
 <img src="https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg" width="200" height="200" alt="微信小程序"/><br/>
 <img src="https://github.com/仓库名/项目名/blob/master/m/20200424225428179.jpg" width="200"  alt="支付宝小程序"/><br/>
 
@@ -22,4 +22,6 @@
 # 扫码进入网络安全攻防知识星球（限免）
 
 ![image](https://github.com/hackctf55/cisp/assets/129292908/2f0e4e89-0093-4435-9311-12b5056f3ae6)
+
+<img src="https://github.com/hackctf55/cisp/assets/129292908/2f0e4e89-0093-4435-9311-12b5056f3ae6.jpg" width="500" height="600" alt="扫码免费加入知识星球"/><br/>
 
