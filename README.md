@@ -8,6 +8,9 @@
 
 ![hackctf55](https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64)
 
+<img src="[https://github.com/Chen-Yi-Ran/OnlineStudy/blob/master/file/course.jpg](https://user-images.githubusercontent.com/129292908/251886305-18bfe928-89bd-47a9-9dab-187037860c64.jpg)" width="210px">
+
+
 # 扫码进入网络安全攻防知识星球（限免）
 
 ![image](https://github.com/hackctf55/cisp/assets/129292908/2f0e4e89-0093-4435-9311-12b5056f3ae6)
