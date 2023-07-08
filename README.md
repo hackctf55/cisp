@@ -15,3 +15,7 @@
 
 <img src="https://github.com/hackctf55/cisp/assets/129292908/2f0e4e89-0093-4435-9311-12b5056f3ae6.jpg" width="500" height="600"  class="center-image"  alt="扫码免费加入知识星球"/><br/>
 
+# 扫码关注公众号
+
+
+<img src="https://https://github.com/hackctf55/cisp/assets/129292908/10cf7d8d-bf04-49ab-bbc4-6ea24d01b219.jpg" width="300" height="300" class="center-image"  alt=""/><br/>
