@@ -2,7 +2,7 @@
 
 此项目分享cisp证书相关内容，涉及cisp题库、cisp考试、cisp备考、cisp报考条件、cisp考试费用、cisp报名官网等相关内容。
 
-# 扫码加微信好友进CISP考证交流群
+# 扫码加微信好友进CISP考证交流群（加好友请务必备注cisp）
 
 ## 微信号：hackctf55
 
