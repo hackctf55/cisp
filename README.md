@@ -8,6 +8,14 @@
 
 ![hackctf55](https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64)
 
+<img src="https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64.jpg" width="200" height="200" alt="个人微信二维码"/><br/>
+<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://github.com/仓库名/项目名/blob/master/m/20200424225428179.jpg" width="200"  alt="支付宝小程序"/><br/>
+
+![hackctf55](https://github.com/hackctf55/cisp/assets/129292908/18bfe928-89bd-47a9-9dab-187037860c64)
+
+//其他样式的设置雷同...
+
 <img src="[https://github.com/Chen-Yi-Ran/OnlineStudy/blob/master/file/course.jpg](https://user-images.githubusercontent.com/129292908/251886305-18bfe928-89bd-47a9-9dab-187037860c64.jpg)" width="210px">
 
 
